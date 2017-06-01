@@ -1,0 +1,4 @@
+project=hanami_todo_app
+architecture=container
+test=minitest
+template=erb
